@@ -5,6 +5,6 @@
      
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
-<img width="64" height="64" src="https://img.icons8.com/external-bearicons-flat-bearicons/64/external-XML-file-extension-bearicons-flat-bearicons.png" alt="external-XML-file-extension-bearicons-flat-bearicons"/>
+
 ### Tools I  used
-<img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/><img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/><img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/><img id="site-logo" class="logo-big" src="https://us1.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" alt="Postman Community">
