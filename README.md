@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋 It's me Tamilarasan
+
+### Android App Developer
 
 
 **tamilarasan6320/tamilarasan6320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
